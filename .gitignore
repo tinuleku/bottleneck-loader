@@ -1,1 +1,9 @@
 node_modules/*
+coverage/*
+
+.DS_Store
+
+*.orig
+
+*.sublime-project
+*.sublime-workspace
